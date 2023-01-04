@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>WORLD CITIES</title>
+<link rel="stylesheet" href="style.css">
+<meta name="viewport" content="width =device-width, initial-scale=1" >
+</head>
+<body>
+<div class ="city">
+<h2>London</h2>
+<h2 class="font-effect-fire"> London on Fire</h2>
+<p>London is the capital of England</p>
+</div>
+<div class="paris">
+<h2>Paris</h2>
+<p>Paris is the capital of France</p>
+</div>
+<div class="nairobi">
+<h2>Nairobi</h2>
+<p>Nairobi is the capital of Kenya</p>
+</div>
+</body>
+
+</html>

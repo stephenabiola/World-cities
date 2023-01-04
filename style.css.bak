@@ -1,0 +1,59 @@
+*{
+	margin: 0;
+	padding:0;
+}
+.city{ 
+    background: linear-gradient(rgba(255,99,71,0),#009688);
+	
+	padding:8%;
+}
+.city h2{
+	font-family:  "Kaushan Script",cursive;
+	color:#6a5acd;
+	font-size:220%;
+	text-align:center;
+	}
+.city p{
+	font-family:  "Kaushan Script",cursive;
+	color:#6a5acd;
+	font-size:220%;
+	text-align:center;
+	text-shadow:2px 2px 4px #000000;
+	}
+ p:hover{
+		background-color:coral;
+	}
+.paris{
+	background:linear-gradient(rgba(0,0,0,0.5),#009688);
+	
+	padding:8%;
+}
+.paris h2{
+	font-family:  "Kaushan Script",cursive;
+	color:#3c3c3c;
+	font-size:220%;
+	text-align:center;
+	}
+.paris p{
+	font-family:  "Kaushan Script",cursive;
+	color:#3c3c3c;
+	font-size:220%;
+	text-align:center;
+	}
+.nairobi{
+	background:linear-gradient(rgba(220,99,71,1),#009688);
+	padding:8%;
+	}
+.nairobi h2{
+	font-family:  "Kaushan Script",cursive;
+	color:#ee82ee;
+	font-size:220%;
+	text-align:center;
+	}
+.nairobi p{
+	font-family:  "Kaushan Script",cursive;
+	color:#ee82ee;
+	font-size:220%;
+	text-align:center;
+	}
+	
